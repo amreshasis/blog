@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # blog
 =======
 # Blog Application
@@ -47,4 +47,4 @@ View blogs on the home page.
 Click "Read More" to log in if not authenticated.
 Sign up or log in to access the "My Blogs" page.
 Create, edit, or delete blogs as a logged-in user.
->>>>>>> 0ecdd6696420edd3f6b5aa12db6283a044635c6b
+
